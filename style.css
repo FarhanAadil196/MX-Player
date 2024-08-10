@@ -276,7 +276,7 @@ section > .head1{
     /* width: 150vw; */
     height: auto;
     overflow-y: hidden;
-    padding: 80px 60px;
+    padding: 80px 0px;
 }
 .container-1::-webkit-scrollbar{
 display: none;
@@ -322,7 +322,7 @@ section > .head2{
     /* width: 150vw; */
     height: auto;
     overflow-y: hidden;
-    padding: 80px 60px;
+    padding: 80px 0px;
 }
 .container-2::-webkit-scrollbar{
     display: none;
@@ -362,7 +362,7 @@ section > .head2{
     /* width: 150vw; */
     height: auto;
     overflow-y: hidden;
-    padding: 80px 60px;
+    padding: 80px 0px;
 }
 .container-3::-webkit-scrollbar{
     display: none;
@@ -403,7 +403,7 @@ section > .head2{
     /* width: 150vw; */
     height: auto;
     overflow-y: hidden;
-    padding: 80px 60px;
+    padding: 80px 0px;
 }
 .container-4::-webkit-scrollbar{
     display: none;
